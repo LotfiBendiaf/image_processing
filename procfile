@@ -1,0 +1,1 @@
+web: gunicorn cbir_project.wsgi --log-file -
